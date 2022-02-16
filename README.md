@@ -9,8 +9,13 @@ Teknorix wishes to build a ReactJS application to display their active job openi
 
 The application should show a list of all active job openings with search/filter functionality. Job opening details should be shown on a unique url.
 tasks:-
+
 Implement list page as per the mockup above.
+
 Job openings grouped by Department.
+
 View button - navigate to the details page of the job opening.
+
 Apply button - navigate to the application form - url of this will be provided in the API response.
+
 Use the /api/v1/jobs API to load the list of job openings.
