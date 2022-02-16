@@ -1,13 +1,10 @@
 ## job-search
 
-React JS Test 1
+##React JS Test 1
+
 Instructions
 Complete the test, commit your code into a github repository and send us a link to the repository.
-Max time for the test is 4 hours.
-Use React JS with Hooks.
-Use LESS or SASS for styling - optional.
-Use a UI framework of your choice - optional.
-Requirements
+
 Teknorix wishes to build a ReactJS application to display their active job openings.
 
 The application should show a list of all active job openings with search/filter functionality. Job opening details should be shown on a unique url.
